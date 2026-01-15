@@ -24,9 +24,9 @@ To ensure consistency and proper learning, all images are resized to a fixed res
 
 - The image size can be increased for potentially better accuracy, but this will:
 
--- Increase computational cost
+  - Increase computational cost
 
--- Increase training time
+  - Increase training time
 
 ## 📈 Performance Considerations
 
