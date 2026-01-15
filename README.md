@@ -9,25 +9,25 @@ All of them solving unic type of problems that you'll find in a working environm
 
 
 
----
+
 
 ### Boltzmann-Machine
 
 
 
----
+
 
 
 ### ANN And SOM
 
 
 
----
+
 
 ### AutoEncoders
 
 
 
----
+
 
 ### Logistic Regression For Breast Cancer
