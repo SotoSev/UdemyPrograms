@@ -10,29 +10,29 @@ To ensure consistency and proper learning, all images are resized to a fixed res
 
 ## 🧠 Model Details
 
-Architecture: Convolutional Neural Network (CNN)
+- Architecture: Convolutional Neural Network (CNN)
 
-Input size: 64 × 64 RGB images
+- Input size: 64 × 64 RGB images
 
-Task: Binary image classification (Dog vs Cat)
+- Task: Binary image classification (Dog vs Cat)
 
 ## ⚙️ Image Preprocessing
 
-Images are resized to (64, 64) to maintain consistent input size.
+- Images are resized to (64, 64) to maintain consistent input size.
 
-Pixel values are scaled appropriately before training.
+- Pixel values are scaled appropriately before training.
 
-The image size can be increased for potentially better accuracy, but this will:
+- The image size can be increased for potentially better accuracy, but this will:
 
-Increase computational cost
+-- Increase computational cost
 
-Increase training time
+-- Increase training time
 
 ## 📈 Performance Considerations
 
-Smaller image sizes → faster training, lower resource usage
+- Smaller image sizes → faster training, lower resource usage
 
-Larger image sizes → potentially higher accuracy, slower training
+- Larger image sizes → potentially higher accuracy, slower training
 
 ## 📂 Repository Context
 
