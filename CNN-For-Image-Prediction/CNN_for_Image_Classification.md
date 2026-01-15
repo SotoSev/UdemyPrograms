@@ -34,10 +34,6 @@ To ensure consistency and proper learning, all images are resized to a fixed res
 
 - Larger image sizes → potentially higher accuracy, slower training
 
-## 📂 Repository Context
-
-This project is one of five projects included in a larger Udemy deep learning course repository and serves as a practical example of applying CNNs to real-world image classification tasks.
-
 ## 🚀 Possible Improvements
 
 - Increase image resolution
