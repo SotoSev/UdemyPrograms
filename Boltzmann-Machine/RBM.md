@@ -38,3 +38,29 @@ This approach allows the RBM to focus on preference patterns rather than exact r
     - Columns → Movies
     
     - Values → Binary ratings
+ 
+### 🧠 Model Architecture
+
+  - Model type: Restricted Boltzmann Machine (RBM)
+
+  - Visible units (nv): Number of movies
+
+  - Hidden units (nh): 100
+
+  - Batch size: 100
+
+  - Training method: Contrastive Divergence (CD-10)
+
+### ⚙️ Training Process
+
+  - The model is trained for 10 epochs
+
+  - Missing ratings are ignored during loss computation
+
+  - Loss is calculated using mean absolute error on known ratings only
+
+Progress is displayed after each epoch with the current training loss.
+
+### 🧪 Testing
+
+After training, the model is evaluated on a separate test set to measure how well it predicts unseen user preferences.
