@@ -9,7 +9,7 @@ All of them solving unic type of problems that you'll find in a working environm
 
 - A Convolutional Neural Network that its been used to predict whether the animal in the picture is a dog or a cat. 
 
-### 🎬 Movie Recommendation System using Restricted Boltzmann Machines (RBM)
+### 🎬 Restricted Boltzmann Machines (RBM) For Movie Recommendation System
 
 - This project implements a movie recommendation system using a Restricted Boltzmann Machine (RBM) built with PyTorch. The goal is to predict whether a user will like or dislike a movie based on historical rating data.
 
