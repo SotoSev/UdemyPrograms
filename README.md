@@ -28,4 +28,6 @@ All of them solving unic type of problems that you'll find in a working environm
 
 
 
-### Logistic Regression For Breast Cancer
+### 🩺 Breast Cancer Prediction using Logistic Regression
+
+This project applies Logistic Regression to predict whether a breast tumor is malignant or benign using medical diagnostic features. It demonstrates a full machine learning pipeline, from data preprocessing to model evaluation and validation.
